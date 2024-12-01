@@ -1,0 +1,3 @@
+"D:\Microsoft VS Code\cmake\cmake\bin\cmake.exe" -E rm -f CMakeFiles\test_main.dir/objects.a
+"D:\Microsoft VS Code\mingw\mingw64\bin\ar.exe" qc CMakeFiles\test_main.dir/objects.a @CMakeFiles\test_main.dir\objects1.rsp
+"D:\Microsoft VS Code\mingw\mingw64\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\test_main.dir/objects.a -Wl,--no-whole-archive -o D:\package\myfile\cpp\test\vscode-cmake-git\bin\test_main.exe -Wl,--out-implib,libtest_main.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_main.dir\linkLibs.rsp
