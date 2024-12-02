@@ -1,4 +1,0 @@
-D:/package/myfile/cpp/test/vscode-cmake-git/build/CMakeFiles/common.dir
-D:/package/myfile/cpp/test/vscode-cmake-git/build/CMakeFiles/test_main.dir
-D:/package/myfile/cpp/test/vscode-cmake-git/build/CMakeFiles/edit_cache.dir
-D:/package/myfile/cpp/test/vscode-cmake-git/build/CMakeFiles/rebuild_cache.dir
